@@ -1,6 +1,5 @@
 <template>
 <div class="container">
-  <p>Creado por <strong>tote</strong></p>
   <div class="clock-border">
     <div class="clock-inner" :class="color">
       <div class="hour">{{hours}}</div>
